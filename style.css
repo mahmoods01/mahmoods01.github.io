@@ -31,3 +31,10 @@ img.icon { border-radius: 3px; width: 30px; height: 30px;}
 /*--- FOOTER ---*/
 #footer { clear: both; width: 100%; color: #333; background-color: #333; text-align: center; }
 #footer p { margin: 0; padding: 1em 10px; color: #f8f8f8; }
+
+/*--- To hide email address from bots (credit: desfontain.es & sebsauvage.net) ---*/
+span.baddirection
+{
+    unicode-bidi:bidi-override;
+    direction: rtl;
+}
