@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 | Mahmood Sharif</title>
+    <link>/publication_types/9/</link>
+      <atom:link href="/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    <description>9</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_2.png</url>
+      <title>9</title>
+      <link>/publication_types/9/</link>
+    </image>
+    
+    <item>
+      <title>Training Older Adults to Resist Scams with Fraud Bingo and Scam Detection Challenges</title>
+      <link>/publication/chiw20-older-adults/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chiw20-older-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Hypothetical and Realistic Privacy Valuations</title>
+      <link>/publication/wpes18-privacy-valuations/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wpes18-privacy-valuations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Suitability of $L_p$-norms for Creating and Preventing Adversarial Examples</title>
+      <link>/publication/cvprw18-lpnorm/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cvprw18-lpnorm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

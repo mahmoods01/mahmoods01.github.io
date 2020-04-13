@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Mahmood Sharif</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Training Older Adults to Resist Scams with Fraud Bingo and Scam Detection Challenges</title>
+      <link>/publication/chiw20-older-adults/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chiw20-older-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$n$-ML: Mitigating Adversarial Examples via Ensembles of Topologically Manipulated Classifiers</title>
+      <link>/publication/arxiv19-nml/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arxiv19-nml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-Guided Binary Diversification to Mislead Neural Networks for Malware Detection</title>
+      <link>/publication/arxiv19-malware/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arxiv19-malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Inference-Time Attacks Against Machine-Learning Systems and a Defense Against Them</title>
+      <link>/publication/thesis19-phd-cmu-ece/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis19-phd-cmu-ece/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Framework for Adversarial Examples with Objectives</title>
+      <link>/publication/tops19-adv-ml/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tops19-adv-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Field Study of Computer-Security Perceptions Using Anti-Virus Customer-Support Chats</title>
+      <link>/publication/chi19-customer-support/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chi19-customer-support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Hypothetical and Realistic Privacy Valuations</title>
+      <link>/publication/wpes18-privacy-valuations/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wpes18-privacy-valuations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Impending Exposure to Malicious Content from User Behavior</title>
+      <link>/publication/ccs18-exposure-prediction/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ccs18-exposure-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Suitability of $L_p$-norms for Creating and Preventing Adversarial Examples</title>
+      <link>/publication/cvprw18-lpnorm/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cvprw18-lpnorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riding Out DOMsday: Toward Detecting and Preventing DOM Cross-Site Scripting</title>
+      <link>/publication/ndss18-dom-xss/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ndss18-dom-xss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topics of Controversy: An Empirical Analysis of Web Censorship Lists</title>
+      <link>/publication/pets17-censorship/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pets17-censorship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Confidence Trumps Knowledge: A Cross-Cultural Study of Security Behavior</title>
+      <link>/publication/chi17-cross-cultural-study/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chi17-cross-cultural-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessorize to a Crime: Real and Stealthy Attacks on State-Of-The-Art Face Recognition</title>
+      <link>/publication/ccs16-adv-ml/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ccs16-adv-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Do Not) Track Me Sometimes: Users&#39; Contextual Preferences for Web Tracking</title>
+      <link>/publication/pets16-online-tracking/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pets16-online-tracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
