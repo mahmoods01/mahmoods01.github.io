@@ -5,12 +5,20 @@
     <link>/authors/limin-jia/</link>
       <atom:link href="/authors/limin-jia/index.xml" rel="self" type="application/rss+xml" />
     <description>Mahmood Sharif</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/authors/limin-jia/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Mahmood Sharif</title>
       <link>/authors/limin-jia/</link>
     </image>
+    
+    <item>
+      <title>How risky are real users&#39; IFTTT applets?</title>
+      <link>/publication/soups20-ifttt/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/soups20-ifttt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Riding Out DOMsday: Toward Detecting and Preventing DOM Cross-Site Scripting</title>
