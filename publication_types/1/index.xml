@@ -5,7 +5,7 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>How risky are real users&#39; IFTTT applets?</title>
+      <title>Malware Makeover: Breaking ML-based Static Analysis by Modifying Executable Bytes</title>
+      <link>/publication/asiaccs21-malware/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/asiaccs21-malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Risky Are Real Users&#39; IFTTT Applets?</title>
       <link>/publication/soups20-ifttt/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>/publication/soups20-ifttt/</guid>

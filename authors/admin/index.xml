@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Mahmood Sharif</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/authors/admin/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_205123_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Mahmood Sharif</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>How risky are real users&#39; IFTTT applets?</title>
+      <title>Malware Makeover: Breaking ML-based Static Analysis by Modifying Executable Bytes</title>
+      <link>/publication/asiaccs21-malware/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/asiaccs21-malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Risky Are Real Users&#39; IFTTT Applets?</title>
       <link>/publication/soups20-ifttt/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>/publication/soups20-ifttt/</guid>
@@ -33,14 +41,6 @@
       <link>/publication/arxiv19-nml/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/publication/arxiv19-nml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization-Guided Binary Diversification to Mislead Neural Networks for Malware Detection</title>
-      <link>/publication/arxiv19-malware/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/arxiv19-malware/</guid>
       <description></description>
     </item>
     
