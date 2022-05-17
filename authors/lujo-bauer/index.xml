@@ -5,7 +5,7 @@
     <link>/authors/lujo-bauer/</link>
       <atom:link href="/authors/lujo-bauer/index.xml" rel="self" type="application/rss+xml" />
     <description>Mahmood Sharif</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
       <title>Mahmood Sharif</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Constrained Gradient Descent: A Powerful and Principled Evasion Attack Against Neural Networks</title>
-      <link>/publication/arxiv21-cgd/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/arxiv21-cgd/</guid>
+      <link>/publication/icml22-cgd/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/icml22-cgd/</guid>
       <description></description>
     </item>
     
