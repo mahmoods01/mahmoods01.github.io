@@ -5,12 +5,20 @@
     <link>/authors/keane-lucas/</link>
       <atom:link href="/authors/keane-lucas/index.xml" rel="self" type="application/rss+xml" />
     <description>Mahmood Sharif</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
       <title>Mahmood Sharif</title>
       <link>/authors/keane-lucas/</link>
     </image>
+    
+    <item>
+      <title>Adversarial Training for Raw-Binary Malware Classifiers</title>
+      <link>/publication/usenix23-malware-advtrain/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/usenix23-malware-advtrain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Constrained Gradient Descent: A Powerful and Principled Evasion Attack Against Neural Networks</title>
