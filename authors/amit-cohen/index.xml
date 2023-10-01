@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amit Cohen | Mahmood Sharif</title>
+    <link>/authors/amit-cohen/</link>
+      <atom:link href="/authors/amit-cohen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amit Cohen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
+      <title>Amit Cohen</title>
+      <link>/authors/amit-cohen/</link>
+    </image>
+    
+    <item>
+      <title>Accessorize in the Dark: A Security Analysis of Near-Infrared Face Recognition</title>
+      <link>/publication/esorics23-nir-attacks/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/esorics23-nir-attacks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
