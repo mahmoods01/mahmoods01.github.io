@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahmood Sharif</title>
+    <link>/authors/daniel-deutch/</link>
+      <atom:link href="/authors/daniel-deutch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mahmood Sharif</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
+      <title>Mahmood Sharif</title>
+      <link>/authors/daniel-deutch/</link>
+    </image>
+    
+    <item>
+      <title>CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers</title>
+      <link>/publication/oakland24-cafa/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/oakland24-cafa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
