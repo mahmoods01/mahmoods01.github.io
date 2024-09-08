@@ -5,7 +5,7 @@
     <link>/tags/source-themes/</link>
       <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Training Robust ML-based Raw-Binary Malware Detectors in Hours, not Months</title>
+      <link>/publication/ccs24-malware-robustness/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/ccs24-malware-robustness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Harmful Bias: A General Label-Leakage Attack on Federated Learning from Bias Gradients</title>
       <link>/publication/aisec24-label-leakage/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/publication/aisec24-label-leakage/</guid>
       <description></description>
     </item>
@@ -23,16 +31,16 @@
     <item>
       <title>The Ultimate Combo: Boosting Adversarial Example Transferability by Composing Data Augmentations</title>
       <link>/publication/aisec24-ultimate-combo/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/publication/aisec24-ultimate-combo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Training Robust ML-based Raw-Binary Malware Detectors in Hours, not Months</title>
-      <link>/publication/ccs24-malware-robustness/</link>
+      <title>Privacy-Preserving Collaborative Genomic Research: A Real-Life Deployment and Vision</title>
+      <link>/publication/healthsec24-vision/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/ccs24-malware-robustness/</guid>
+      <guid>/publication/healthsec24-vision/</guid>
       <description></description>
     </item>
     

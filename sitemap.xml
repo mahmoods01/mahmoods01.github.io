@@ -3,63 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/keane-lucas/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/lujo-bauer/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/michael-k.-reiter/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/weiran-lin/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/9/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/achi-or-weingarten/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/eyal-ronen/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/aisec24-label-leakage/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/nadav-gat/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/aisec24-ultimate-combo/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/ccs24-malware-robustness/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/9/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/achi-or-weingarten/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/eyal-ronen/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/aisec24-label-leakage/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nadav-gat/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/aisec24-ultimate-combo/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/zebin-yun/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/erman-ayday/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nahal-shahini/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ofir-farchy/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/healthsec24-vision/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/vipin-chaudhary/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yaniv-harel/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yuzhou-jiang/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/zahra-rahmani/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/yukiko-sawaya/</loc>
