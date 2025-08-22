@@ -5,12 +5,20 @@
     <link>/authors/matan-ben-tov/</link>
       <atom:link href="/authors/matan-ben-tov/index.xml" rel="self" type="application/rss+xml" />
     <description>Mahmood Sharif</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
       <title>Mahmood Sharif</title>
       <link>/authors/matan-ben-tov/</link>
     </image>
+    
+    <item>
+      <title>GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search</title>
+      <link>/publication/ccs25-gaselite/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ccs25-gaselite/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers</title>
