@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Mahmood Sharif</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
+    <title>Mor Geva | Mahmood Sharif</title>
+    <link>/authors/mor-geva/</link>
+      <atom:link href="/authors/mor-geva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mor Geva</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
-      <title>2</title>
-      <link>/publication_types/2/</link>
+      <title>Mor Geva</title>
+      <link>/authors/mor-geva/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/tacl26-hijacking/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/publication/tacl26-hijacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A General Framework for Adversarial Examples with Objectives</title>
-      <link>/publication/tops19-adv-ml/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/tops19-adv-ml/</guid>
       <description></description>
     </item>
     
