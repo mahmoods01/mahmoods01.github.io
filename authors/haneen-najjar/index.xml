@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eyal Ronen | Mahmood Sharif</title>
-    <link>/authors/eyal-ronen/</link>
-      <atom:link href="/authors/eyal-ronen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Eyal Ronen</description>
+    <title>Haneen Najjar | Mahmood Sharif</title>
+    <link>/authors/haneen-najjar/</link>
+      <atom:link href="/authors/haneen-najjar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haneen Najjar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
-      <title>Eyal Ronen</title>
-      <link>/authors/eyal-ronen/</link>
+      <title>Haneen Najjar</title>
+      <link>/authors/haneen-najjar/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/usenix26-sy-far/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <guid>/publication/usenix26-sy-far/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Ultimate Combo: Boosting Adversarial Example Transferability by Composing Data Augmentations</title>
-      <link>/publication/aisec24-ultimate-combo/</link>
-      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/aisec24-ultimate-combo/</guid>
       <description></description>
     </item>
     

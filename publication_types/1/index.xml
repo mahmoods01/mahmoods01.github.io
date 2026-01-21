@@ -5,7 +5,7 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Sy-FAR: Symmetry-based Fair Adversarial Robustness</title>
+      <link>/publication/usenix26-sy-far/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/usenix26-sy-far/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bot Among Us: Exploring User Awareness and Privacy Concerns About Chatbots in Group Chats</title>
       <link>/publication/pets26-chatbots/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       <guid>/publication/pets26-chatbots/</guid>
       <description></description>
     </item>
