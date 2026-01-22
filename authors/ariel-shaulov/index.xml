@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ariel Shaulov | Mahmood Sharif</title>
+    <link>/authors/ariel-shaulov/</link>
+      <atom:link href="/authors/ariel-shaulov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ariel Shaulov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
+      <title>Ariel Shaulov</title>
+      <link>/authors/ariel-shaulov/</link>
+    </image>
+    
+    <item>
+      <title>Safeguarding Language Models via Self-Destruct Trapdoor</title>
+      <link>/publication/eacl26-self-destruct/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/eacl26-self-destruct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
