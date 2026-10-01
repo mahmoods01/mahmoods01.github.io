@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roi Cohen | Mahmood Sharif</title>
+    <link>/authors/roi-cohen/</link>
+      <atom:link href="/authors/roi-cohen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roi Cohen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png</url>
+      <title>Roi Cohen</title>
+      <link>/authors/roi-cohen/</link>
+    </image>
+    
+    <item>
+      <title>StyleAT: Defending Face Recognition Against Semantic Attacks</title>
+      <link>/publication/bmvc26-styleat/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/bmvc26-styleat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

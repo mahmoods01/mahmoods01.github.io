@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Senior Lecturer">
+  <meta name="description" content="Discrete text-trigger optimization -- searching for text sequences that, when ingested by a model, steer it toward a specified objective -- underpins model red-teaming (e.g., LLM jailbreaks), as well as auditing and interpretability. However, the current state of discrete optimizers hinders their adoption and progress. First, existing optimizers, when open-sourced at all, are scattered across research codebases tied to specific models, objectives, and problem domains. Second, optimizer variants proliferate, each requiring engineering overhead to use or extend, and remaining hard to compare head-to-head. Together, these raise the bar for adopting optimizers in existing or new domains, and for advancing them via new strategies. We address these gaps with TROPT, the first open-source framework that unifies discrete optimizers&#39; execution and standardizes their development under a single interface. TROPT makes it easy to customize end-to-end optimization recipes by swapping any component -- models, objectives, and optimizers -- extending its reach across domains and new applications. TROPT currently ships with 30&#43; optimization recipes -- covering applications such as jailbreaking and probing model internals -- built from 15&#43; optimizers (spanning white-box to black-box access) and 15&#43; losses, from foundational to state-of-the-art methods. Demonstrating its utility, we leverage TROPT in several studies: (i) controlled, large-scale experiments comparing and enhancing optimization strategies for LLM jailbreaks, revealing potent-yet-underadopted techniques; and (ii) porting optimizers from one domain (e.g., LLM jailbreak) to new domains (e.g., corpus-poisoning embedding model). In all, TROPT significantly lowers the barrier to adopting and advancing discrete text optimization.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/">
+  <link rel="alternate" hreflang="en-us" href="/publication/neurips26-tropt/">
 
   
 
@@ -216,14 +216,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Mahmood Sharif">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="/authors/">
+  <link rel="canonical" href="/publication/neurips26-tropt/">
 
   
   
@@ -239,18 +237,61 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Mahmood Sharif">
-  <meta property="og:url" content="/authors/">
-  <meta property="og:title" content="Authors | Mahmood Sharif">
-  <meta property="og:description" content="Senior Lecturer"><meta property="og:image" content="/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png">
+  <meta property="og:url" content="/publication/neurips26-tropt/">
+  <meta property="og:title" content="TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization | Mahmood Sharif">
+  <meta property="og:description" content="Discrete text-trigger optimization -- searching for text sequences that, when ingested by a model, steer it toward a specified objective -- underpins model red-teaming (e.g., LLM jailbreaks), as well as auditing and interpretability. However, the current state of discrete optimizers hinders their adoption and progress. First, existing optimizers, when open-sourced at all, are scattered across research codebases tied to specific models, objectives, and problem domains. Second, optimizer variants proliferate, each requiring engineering overhead to use or extend, and remaining hard to compare head-to-head. Together, these raise the bar for adopting optimizers in existing or new domains, and for advancing them via new strategies. We address these gaps with TROPT, the first open-source framework that unifies discrete optimizers&#39; execution and standardizes their development under a single interface. TROPT makes it easy to customize end-to-end optimization recipes by swapping any component -- models, objectives, and optimizers -- extending its reach across domains and new applications. TROPT currently ships with 30&#43; optimization recipes -- covering applications such as jailbreaking and probing model internals -- built from 15&#43; optimizers (spanning white-box to black-box access) and 15&#43; losses, from foundational to state-of-the-art methods. Demonstrating its utility, we leverage TROPT in several studies: (i) controlled, large-scale experiments comparing and enhancing optimization strategies for LLM jailbreaks, revealing potent-yet-underadopted techniques; and (ii) porting optimizers from one domain (e.g., LLM jailbreak) to new domains (e.g., corpus-poisoning embedding model). In all, TROPT significantly lowers the barrier to adopting and advancing discrete text optimization."><meta property="og:image" content="/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2026-10-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2026-10-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2026-10-01T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/neurips26-tropt/"
+  },
+  "headline": "TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization",
+  
+  "datePublished": "2026-10-01T00:00:00Z",
+  "dateModified": "2026-10-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Matan Ben-Tov"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mahmood Sharif",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu17ec3f4c5dad74ee902e9428b7d65766_36835_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Discrete text-trigger optimization -- searching for text sequences that, when ingested by a model, steer it toward a specified objective -- underpins model red-teaming (e.g., LLM jailbreaks), as well as auditing and interpretability. However, the current state of discrete optimizers hinders their adoption and progress. First, existing optimizers, when open-sourced at all, are scattered across research codebases tied to specific models, objectives, and problem domains. Second, optimizer variants proliferate, each requiring engineering overhead to use or extend, and remaining hard to compare head-to-head. Together, these raise the bar for adopting optimizers in existing or new domains, and for advancing them via new strategies. We address these gaps with TROPT, the first open-source framework that unifies discrete optimizers' execution and standardizes their development under a single interface. TROPT makes it easy to customize end-to-end optimization recipes by swapping any component -- models, objectives, and optimizers -- extending its reach across domains and new applications. TROPT currently ships with 30+ optimization recipes -- covering applications such as jailbreaking and probing model internals -- built from 15+ optimizers (spanning white-box to black-box access) and 15+ losses, from foundational to state-of-the-art methods. Demonstrating its utility, we leverage TROPT in several studies: (i) controlled, large-scale experiments comparing and enhancing optimization strategies for LLM jailbreaks, revealing potent-yet-underadopted techniques; and (ii) porting optimizers from one domain (e.g., LLM jailbreak) to new domains (e.g., corpus-poisoning embedding model). In all, TROPT significantly lowers the barrier to adopting and advancing discrete text optimization."
+}
+</script>
+
+  
 
   
 
@@ -258,10 +299,13 @@
   
 
 
+  
 
 
 
-  <title>Authors | Mahmood Sharif</title>
+
+
+  <title>TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization | Mahmood Sharif</title>
 
 </head>
 
@@ -517,6 +561,91 @@
 </nav>
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>TROPT: An Open Framework for Unifying and Advancing Discrete Text Optimization</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/authors/matan-ben-tov/">Matan Ben-Tov</a></span>, <span><a href="/authors/admin/">Mahmood Sharif</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    October 2026
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -526,80 +655,122 @@
 
 
 
-
-
-
-
-
-
   
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/neurips26-tropt/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2606.23496" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
 
   
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/matanbt/TROPT" target="_blank" rel="noopener">
+    
+    Code
+  </a>
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Discrete text-trigger optimization &ndash; searching for text sequences that, when ingested by a model, steer it toward a specified objective &ndash; underpins model red-teaming (e.g., LLM jailbreaks), as well as auditing and interpretability. However, the current state of discrete optimizers hinders their adoption and progress. First, existing optimizers, when open-sourced at all, are scattered across research codebases tied to specific models, objectives, and problem domains. Second, optimizer variants proliferate, each requiring engineering overhead to use or extend, and remaining hard to compare head-to-head. Together, these raise the bar for adopting optimizers in existing or new domains, and for advancing them via new strategies. We address these gaps with TROPT, the first open-source framework that unifies discrete optimizers&rsquo; execution and standardizes their development under a single interface. TROPT makes it easy to customize end-to-end optimization recipes by swapping any component &ndash; models, objectives, and optimizers &ndash; extending its reach across domains and new applications. TROPT currently ships with 30+ optimization recipes &ndash; covering applications such as jailbreaking and probing model internals &ndash; built from 15+ optimizers (spanning white-box to black-box access) and 15+ losses, from foundational to state-of-the-art methods. Demonstrating its utility, we leverage TROPT in several studies: (i) controlled, large-scale experiments comparing and enhancing optimization strategies for LLM jailbreaks, revealing potent-yet-underadopted techniques; and (ii) porting optimizers from one domain (e.g., LLM jailbreak) to new domains (e.g., corpus-poisoning embedding model). In all, TROPT significantly lowers the barrier to adopting and advancing discrete text optimization.</p>
     
-      
-      <li><a href="/authors/lujo-bauer/">Lujo Bauer</a></li>
-    
-      
-      <li><a href="/authors/michael-k.-reiter/">Michael K. Reiter</a></li>
-    
-      
-      <li><a href="/authors/weiran-lin/">Weiran Lin</a></li>
-    
-      
-      <li><a href="/authors/achi-or-weingarten/">Achi-Or Weingarten</a></li>
-    
-      
-      <li><a href="/authors/nadav-gat/">Nadav Gat</a></li>
-    
-      
-      <li><a href="/authors/erman-ayday/">Erman Ayday</a></li>
-    
-      
-      <li><a href="/authors/nahal-shahini/">Nahal Shahini</a></li>
-    
-      
-      <li><a href="/authors/ofir-farchy/">Ofir Farchy</a></li>
-    
-      
-      <li><a href="/authors/vipin-chaudhary/">Vipin Chaudhary</a></li>
-    
-      
-      <li><a href="/authors/yaniv-harel/">Yaniv Harel</a></li>
-    
-  </ul>
 
-  
-<nav>
-  <ul class="pagination justify-content-center">
     
-    <li class="page-item"><a class="page-link" href="/authors/page/3/">&laquo;</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/5/">&raquo;</a></li>
-    
-  </ul>
-</nav>
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Conference on Neural Information Processing Systems (NeurIPS), Evaluations and Datasets Track</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+  </div>
 </div>
 
       

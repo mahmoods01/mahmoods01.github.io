@@ -3,13 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/matan-ben-tov/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/neurips26-tropt/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/eyal-ronen/</loc>
     <lastmod>2026-08-01T00:00:00+00:00</lastmod>
@@ -17,23 +38,20 @@
     <loc>/authors/haneen-najjar/</loc>
     <lastmod>2026-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/usenix26-sy-far/</loc>
     <lastmod>2026-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+    <loc>/authors/ben-shapira/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/roi-cohen/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/shang-tse-chen/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/bmvc26-styleat/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/raid26-fab/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
@@ -49,9 +67,6 @@
   </url><url>
     <loc>/authors/sol-yarkoni/</loc>
     <lastmod>2026-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/matan-ben-tov/</loc>
-    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/michelle-mazurek/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
